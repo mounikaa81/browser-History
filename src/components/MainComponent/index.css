@@ -1,0 +1,37 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0.5% 1%;
+  align-items: center;
+  width: 100vw;
+  padding: 0px 6%;
+}
+
+.super {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+}
+.poo {
+  width: 3vw;
+  height: 3vh;
+}
+.sub {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0px 5%;
+}
+.para {
+  margin-left: 20px;
+  margin-right: 20px;
+  font-weight: 800;
+  color: #475569;
+}
+
+* {
+  font-family: 'Roboto';
+}
